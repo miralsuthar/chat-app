@@ -1,0 +1,16 @@
+.textContainerShowUser{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1rem;
+}
+
+.textContainerShowUser h2{
+    padding: 0.5rem;
+}
+
+.greenUser{
+    color: rgb(67, 192, 67);
+}
